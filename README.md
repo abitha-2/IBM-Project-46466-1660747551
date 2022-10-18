@@ -32,4 +32,19 @@ The project aims to develop a system that converts the sign language into a huma
 - [x] Empathy Map
 - [x] Brainstorm
 
+# DESIGN PHASE 
+      In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the products of the design phase can include dioramas, sketches etc
+
+# DESIGN PHASE 01 
+- [x] Proposed Solution
+- [x] Problem-Solution Fit
+- [x] Solution Architecture
+
+# DESIGN PHASE 02 
+- [x] Solution Requirements
+- [x] Customer Journey Map
+- [x] Data Flow Diagrams
+- [x] Technology Stack
+
+
 
