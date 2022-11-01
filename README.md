@@ -43,7 +43,7 @@ The project aims to develop a system that converts the sign language into a huma
 - [x] Solution Requirements
 - [x] Customer Journey Map
 - [x] Data Flow Diagrams
-- [x] Technology Stack
+- [x] Technology Stack.
 
 
 
