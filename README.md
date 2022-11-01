@@ -44,6 +44,17 @@ The project aims to develop a system that converts the sign language into a huma
 - [x] Customer Journey Map
 - [x] Data Flow Diagrams
 - [x] Technology Architecture.
+## Planning Phase 
+          In this milestone you are expected to prepare milestones & tasks, sprint schedules.
+- [x] Prepare Milestone & Activity List
+- [x] Sprint Delivery Plan
+## Project Development Phase 
+           In this milestone you will start the project development and expected to perform the coding & solutioning, acceptance testing, performance testing based as per the sprint and submit them.
+- [x] Project Development - Delivery Of Sprint-1
+- [x] Project Development - Delivery Of Sprint-2
+- [x] Project Development - Delivery Of Sprint-3
+- [x] Project Development - Delivery Of Sprint-4
+           
 
 
 
